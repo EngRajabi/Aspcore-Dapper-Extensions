@@ -1,9 +1,9 @@
 <Project>
   <PropertyGroup>
     <LangVersion>8.0</LangVersion>
-    <Version>1.0.2</Version>
-    <PackageVersion>1.0.2</PackageVersion>
-    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <Version>1.0.3</Version>
+    <PackageVersion>1.0.3</PackageVersion>
+    <AssemblyVersion>1.0.3</AssemblyVersion>
     <Authors>Mohsen Rajabi</Authors>
     <Company>Mohsen Rajabi</Company>
     <Copyright>Copyright © Mohsen Rajabi 2021</Copyright>
