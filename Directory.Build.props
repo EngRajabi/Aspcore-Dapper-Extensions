@@ -10,7 +10,7 @@
     <Description>
 		A package for easy use of dapper in aspcore that needs to be used very simply. asp core dapper(micro orm) extensions
 	</Description>
-    <PackageTags>aspcore dapper extensions dapperDbContext micro-orm orm sql data aspcore-dapper</PackageTags>
+    <PackageTags>aspcore dapper extensions dapperDbContext micro-orm orm sql data aspcore-dapper dapper-extensions aspcore-dapper-extensions</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/EngRajabi/Aspcore-Dapper-Extensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/EngRajabi/Aspcore-Dapper-Extensions</RepositoryUrl>
