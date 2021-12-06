@@ -10,7 +10,7 @@
     <Description>
       A compression library 
     </Description>
-    <PackageTags>Compression Decompression Compress Decompress Compressor Zstd Zstandard LZMA LZ4 Snappy Brotli GZip Deflate</PackageTags>
+    <PackageTags>aspcore dapper extensions dapperDbContext micro-orm orm sql data aspcore-dapper</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/EngRajabi/Aspcore-Dapper-Extensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/EngRajabi/Aspcore-Dapper-Extensions</RepositoryUrl>
